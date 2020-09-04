@@ -1,0 +1,24 @@
+{
+  "name": "protfolio_personnel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdessamed11/protfolio_personnel.git"
+  },
+  "author": "abdessamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdessamed11/protfolio_personnel/issues"
+  },
+  "homepage": "https://github.com/abdessamed11/protfolio_personnel#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}

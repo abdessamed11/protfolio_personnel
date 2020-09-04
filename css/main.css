@@ -1,0 +1,25 @@
+nav {
+  background-color: #f7f7f7; }
+
+/* style contact*/
+.font_contact {
+  font-family: "noticia text", serif;
+  margin-bottom: 240px;
+  margin-top: 30px;
+  color: red; }
+
+.font_tel {
+  font-family: "open sans", sans-serif; }
+
+.label_color {
+  background-color: #e83556; }
+
+.contact_color {
+  padding-left: 200px; }
+
+h1 {
+  color: red;
+  margin-top: 100px; }
+
+.img-responsive {
+  height: 310px; }
